@@ -8,6 +8,8 @@ int main()
     printf("The prime numbers between the given numbers are:\n");
     for(i=n1;i<=n2;i++)
     {
+        if(i==1)
+           continue;
         if(i==2)
         {
             printf("%d",i);
