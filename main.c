@@ -10,6 +10,7 @@ int main()
     {
         if(i==2)
         {
+            printf("%d",i);
             continue;
         }
         if(i%2==0)
