@@ -1,2 +1,2 @@
 # Prime-Numbers
-Finding the prime numbers between the given numbers
+Finding the prime numbers between the given range.
