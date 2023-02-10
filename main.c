@@ -18,7 +18,7 @@ int main()
         if(i%2==0)
             continue;
         temp=1;
-        for(j=2;j<sqrt(i);j++)
+        for(j=2;j<=sqrt(i);j++)
         {
             if(i%j==0)
             {
